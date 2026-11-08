@@ -3,17 +3,17 @@
     <channel>
         <title>ibid</title>
         <item>
-            <title>1.4.43</title>
-            <pubDate>Sun, 08 Nov 2026 16:41:16 +0800</pubDate>
-            <sparkle:version>65</sparkle:version>
-            <sparkle:shortVersionString>1.4.43</sparkle:shortVersionString>
+            <title>1.4.44</title>
+            <pubDate>Sun, 08 Nov 2026 16:58:13 +0800</pubDate>
+            <sparkle:version>66</sparkle:version>
+            <sparkle:shortVersionString>1.4.44</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- The top row no longer comes back on the slightest upward movement of a scroll. It waits for a
-  short pull up, so a finger settling at the end of a swipe doesn't bring it down and jog the
-  words. Scrolling down still tucks it away at once.
+            <description sparkle:format="markdown"><![CDATA[- Updates now come from a steadier address. On 8 November, GitHub's servers in Southeast Asia
+  failed for over an hour and ibid showed "Update Error!" on every check; the new address
+  kept working throughout.
 
 ]]></description>
-            <enclosure url="https://fiachramacfadden.github.io/ibid-releases/ibid-1.4.43.zip" length="3110142" type="application/octet-stream" sparkle:edSignature="jF2+v30/qw1JlmxH0zoHqGCqSDd9boAOedNFfKJ2JOW5q6iPLynlj10RKR04lRXpzPTf9LMvCACUKPP88+/tDA=="/>
+            <enclosure url="https://fiachramacfadden.github.io/ibid-releases/ibid-1.4.44.zip" length="3110135" type="application/octet-stream" sparkle:edSignature="Of22/WzVrzkyLu/G4eDIxVduZhfi0vUDuJfXw9mhrRi0TW+JiprEruKcAz408SJkxNHhBDsbsu2gdGa1NZ1gDQ=="/>
         </item>
     </channel>
 </rss>
