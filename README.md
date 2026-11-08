@@ -37,5 +37,5 @@ To check a download yourself:
 
 ## Problems
 
-Something wrong? [Open an issue](https://github.com/fiachramacfadden/ibid-releases/issues/new).
-Say which macOS you are on and which website, if one is involved.
+Something wrong? [Open an issue](https://github.com/fiachramacfadden/ibid-releases/issues/new)
+or write to fiki@zhiyin.dev. Say which macOS you are on and which website, if one is involved.
