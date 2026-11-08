@@ -1,3 +1,19 @@
-<html><body><h1>504 Gateway Time-out</h1>
-The server didn't respond in time.
-</body></html>
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>ibid</title>
+        <item>
+            <title>1.4.43</title>
+            <pubDate>Sun, 08 Nov 2026 16:41:16 +0800</pubDate>
+            <sparkle:version>65</sparkle:version>
+            <sparkle:shortVersionString>1.4.43</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- The top row no longer comes back on the slightest upward movement of a scroll. It waits for a
+  short pull up, so a finger settling at the end of a swipe doesn't bring it down and jog the
+  words. Scrolling down still tucks it away at once.
+
+]]></description>
+            <enclosure url="https://fiachramacfadden.github.io/ibid-releases/ibid-1.4.43.zip" length="3110142" type="application/octet-stream" sparkle:edSignature="jF2+v30/qw1JlmxH0zoHqGCqSDd9boAOedNFfKJ2JOW5q6iPLynlj10RKR04lRXpzPTf9LMvCACUKPP88+/tDA=="/>
+        </item>
+    </channel>
+</rss>
