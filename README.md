@@ -22,9 +22,10 @@ Requires macOS 15.2 or later, on Apple silicon or Intel.
 - Runs in the App Sandbox with the hardened runtime, signed with a Developer ID and notarised
   by Apple. The entitlements are the minimum a browser needs: network, downloads, files you
   pick, printing, and camera and microphone for sites that ask.
-- Updates come through [Sparkle](https://sparkle-project.org). Each one is EdDSA-signed and
-  the feed (`appcast.xml`) is published with every release, so you can inspect exactly what an
-  installed copy will fetch.
+- Updates come through [Sparkle](https://sparkle-project.org). Each one is EdDSA-signed. The
+  feed installed copies read is [`appcast.xml`](https://fiachramacfadden.github.io/ibid-releases/appcast.xml)
+  at the root of this repo, served by GitHub Pages beside the update file it names, so you can
+  inspect exactly what an installed copy will fetch. Each release carries a copy of both.
 - Everything you highlight and write is stored on your Mac, encrypted under a key in the
   Keychain. Nothing is collected and nothing is sent anywhere. The privacy manifest in the
   bundle says the same.
