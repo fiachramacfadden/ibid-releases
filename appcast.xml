@@ -3,16 +3,17 @@
     <channel>
         <title>ibid</title>
         <item>
-            <title>1.4.45</title>
-            <pubDate>Sun, 08 Nov 2026 17:07:49 +0800</pubDate>
-            <sparkle:version>67</sparkle:version>
-            <sparkle:shortVersionString>1.4.45</sparkle:shortVersionString>
+            <title>1.4.46</title>
+            <pubDate>Mon, 09 Nov 2026 12:47:23 +0800</pubDate>
+            <sparkle:version>68</sparkle:version>
+            <sparkle:shortVersionString>1.4.46</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- The top row now comes back only for a brisk pull up, or a long one. Scrolling up slowly to
-  re-read a line leaves it away, and separate small scrolls no longer add up.
+            <description sparkle:format="markdown"><![CDATA[- The window's close, minimise and zoom buttons now go with the top row: they slide away with
+  it as you scroll down and come back with it, instead of staying in the corner over the page
+  and then jumping into place.
 
 ]]></description>
-            <enclosure url="https://fiachramacfadden.github.io/ibid-releases/ibid-1.4.45.zip" length="3114394" type="application/octet-stream" sparkle:edSignature="bFx2FCdnYsFVJUBDtwR9rbuI0w9ISQRRDQotRcUz8LVw5pmIdyX7sDWauM6zY+RQ5ArXXZNweVaxX6kXsBEwCQ=="/>
+            <enclosure url="https://fiachramacfadden.github.io/ibid-releases/ibid-1.4.46.zip" length="3117063" type="application/octet-stream" sparkle:edSignature="5OUsALjgQLIu6jaSz/w0aEUe2nyG6whA0xOD3BMqJHimYYdXM2BfG0Npl96Wde8TUOxC3NYMEfGO1N0zemlMCg=="/>
         </item>
     </channel>
 </rss>
