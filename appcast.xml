@@ -3,18 +3,23 @@
     <channel>
         <title>ibid</title>
         <item>
-            <title>1.4.47</title>
-            <pubDate>Mon, 09 Nov 2026 17:59:58 +0800</pubDate>
-            <sparkle:version>69</sparkle:version>
-            <sparkle:shortVersionString>1.4.47</sparkle:shortVersionString>
+            <title>1.4.48</title>
+            <pubDate>Wed, 11 Nov 2026 13:35:38 +0800</pubDate>
+            <sparkle:version>70</sparkle:version>
+            <sparkle:shortVersionString>1.4.48</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- The top row and the frame round the page are now glass: what's behind the window shows
-  through them, softly blurred, under a light wash. The page itself stays as it was.
-- The close, minimise and zoom buttons show their marks only while the pointer is over them,
-  instead of keeping them after it has moved away.
+            <description sparkle:format="markdown"><![CDATA[- Find on this page now appears at the foot of the page, just above the address, in place of
+  the top.
+- Closing Find no longer leaves the last word it found highlighted on the page.
+- The top row and the frame round the page are plain white again, in place of the glass.
+- The address of a link you were pointing at no longer stays in the corner after the next page
+  has opened.
+- When you scroll down, the top row still slides away at once, but the thin border round the
+  page now waits until you've stopped scrolling before it goes. The page no longer widens and
+  nudges the words while you're moving.
 
 ]]></description>
-            <enclosure url="https://fiachramacfadden.github.io/ibid-releases/ibid-1.4.47.zip" length="3121927" type="application/octet-stream" sparkle:edSignature="5eriV01eppY11UWnyinMLNWR6NLykdYIfxzQgQf1mxD+RbFlUALimUcoQyjLY1lsbOozFMq47qGVrFuilVclAQ=="/>
+            <enclosure url="https://fiachramacfadden.github.io/ibid-releases/ibid-1.4.48.zip" length="3122951" type="application/octet-stream" sparkle:edSignature="zk52Rb/QSPNmKGDb4lgQKnAdkVCG3K9Pe108X4CdqHqP8RX44PrbRF85qDpxQiTShODdfFzmsFBu3TfTyJc6Cg=="/>
         </item>
     </channel>
 </rss>
