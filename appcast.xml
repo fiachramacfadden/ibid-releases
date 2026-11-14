@@ -3,27 +3,24 @@
     <channel>
         <title>ibid</title>
         <item>
-            <title>1.4.50</title>
-            <pubDate>Sat, 14 Nov 2026 11:50:45 +0800</pubDate>
-            <sparkle:version>72</sparkle:version>
-            <sparkle:shortVersionString>1.4.50</sparkle:shortVersionString>
+            <title>1.4.51</title>
+            <pubDate>Sat, 14 Nov 2026 13:12:45 +0800</pubDate>
+            <sparkle:version>73</sparkle:version>
+            <sparkle:shortVersionString>1.4.51</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- Paste a web address into a margin note and it becomes a small card: the page's picture, its
-  title and its site. Press it to open that page.
-- If you've already highlighted that page, the card shows a coloured tick for each highlight.
-  Press the ticks to read those passages without leaving the page you're on.
-- Bookmark a page and its top right corner folds over, like a dog-eared page in a book. Press
-  the folded corner to take the bookmark off again.
-- The bookmark button is now a bookmark, in place of a star.
-- The tab you're on is shown by its title, in full black, with the other tabs' titles paler.
-- The colours for highlighting are now marker tips, easier to press.
-- A new highlight or underline appears with a gentle bloom.
-- Highlighting words you'd already underlined keeps the underline.
-- The page now always sits inside a thin white frame, across the top too once the top row has
-  slid away, so it no longer widens and nudges the words after you scroll.
+            <description sparkle:format="markdown"><![CDATA[- When you scroll down and the top row slides away, the thin frame round the page slowly takes
+  on the website's own colour and the page's shadow fades, so the page and its frame read as
+  one. Scroll back up and it returns to white.
+- A bookmarked page's folded corner now stays at the top right of the window, so you see it fold
+  even when you bookmark partway down a page. It lies flat while you scroll down and folds over
+  again when the top row comes back.
+- On a bookmarked page the scroll bar sits on the frame beside the page, clear of the folded
+  corner.
+- The bookmarks button in the top row is filled, so it isn't mistaken for the bookmark by the
+  address, which keeps the page you're on.
 
 ]]></description>
-            <enclosure url="https://fiachramacfadden.github.io/ibid-releases/ibid-1.4.50.zip" length="3264915" type="application/octet-stream" sparkle:edSignature="erDh8lkNiR4JqTSZGjh7QJKqOfV2UWh11vhZRG9qrvu/6LdNN089oP/emYTBAn719ulP2SSqcasdGq+ySjquBw=="/>
+            <enclosure url="https://fiachramacfadden.github.io/ibid-releases/ibid-1.4.51.zip" length="3294290" type="application/octet-stream" sparkle:edSignature="4SLXizodN5NVFam6lEXK/nW0fkyF6QaZ5c3pZwhvSyr/zswj558z8hNqDhC9VjcTYWTvF8twSS0DdLZv2sWNDg=="/>
         </item>
     </channel>
 </rss>
