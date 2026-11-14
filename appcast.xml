@@ -3,17 +3,27 @@
     <channel>
         <title>ibid</title>
         <item>
-            <title>1.4.49</title>
-            <pubDate>Wed, 11 Nov 2026 13:47:49 +0800</pubDate>
-            <sparkle:version>71</sparkle:version>
-            <sparkle:shortVersionString>1.4.49</sparkle:shortVersionString>
+            <title>1.4.50</title>
+            <pubDate>Sat, 14 Nov 2026 11:50:45 +0800</pubDate>
+            <sparkle:version>72</sparkle:version>
+            <sparkle:shortVersionString>1.4.50</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- Find on this page now says which match you're on and how many there are, such as "3 of 4".
-- Closing Find really does take the highlight off the last word it found. In 1.4.48 a yellow
-  marker could stay behind.
+            <description sparkle:format="markdown"><![CDATA[- Paste a web address into a margin note and it becomes a small card: the page's picture, its
+  title and its site. Press it to open that page.
+- If you've already highlighted that page, the card shows a coloured tick for each highlight.
+  Press the ticks to read those passages without leaving the page you're on.
+- Bookmark a page and its top right corner folds over, like a dog-eared page in a book. Press
+  the folded corner to take the bookmark off again.
+- The bookmark button is now a bookmark, in place of a star.
+- The tab you're on is shown by its title, in full black, with the other tabs' titles paler.
+- The colours for highlighting are now marker tips, easier to press.
+- A new highlight or underline appears with a gentle bloom.
+- Highlighting words you'd already underlined keeps the underline.
+- The page now always sits inside a thin white frame, across the top too once the top row has
+  slid away, so it no longer widens and nudges the words after you scroll.
 
 ]]></description>
-            <enclosure url="https://fiachramacfadden.github.io/ibid-releases/ibid-1.4.49.zip" length="3128381" type="application/octet-stream" sparkle:edSignature="TB/UUrIIriQ3uI63zj5Fnxnd1nS+pZgZj1Qb3pOQ1inOQbPj0JI4FiQJQXOFbRuhUcoHzynmiC1eCrYMtT5uDA=="/>
+            <enclosure url="https://fiachramacfadden.github.io/ibid-releases/ibid-1.4.50.zip" length="3264915" type="application/octet-stream" sparkle:edSignature="erDh8lkNiR4JqTSZGjh7QJKqOfV2UWh11vhZRG9qrvu/6LdNN089oP/emYTBAn719ulP2SSqcasdGq+ySjquBw=="/>
         </item>
     </channel>
 </rss>
