@@ -3,18 +3,19 @@
     <channel>
         <title>ibid</title>
         <item>
-            <title>1.4.52</title>
-            <pubDate>Mon, 16 Nov 2026 14:34:52 +0800</pubDate>
-            <sparkle:version>74</sparkle:version>
-            <sparkle:shortVersionString>1.4.52</sparkle:shortVersionString>
+            <title>1.4.53</title>
+            <pubDate>Mon, 16 Nov 2026 14:52:21 +0800</pubDate>
+            <sparkle:version>75</sparkle:version>
+            <sparkle:shortVersionString>1.4.53</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- ibid now says highlights and notes everywhere, where it used to say "marks": the Highlights
-  list counts "2 highlights", the view of a page's passages is "Your highlights", and the menu
-  in the menu bar is Highlights.
-- In Settings, the exports are now Export Highlights and Export Highlights as Markdown.
+            <description sparkle:format="markdown"><![CDATA[- Highlight something on a page that changes all the time, such as a timeline or a newspaper's
+  front page, and ibid now tells you there and then: open the post or article itself to keep
+  your highlight on it. What you highlighted is still kept in Highlights either way.
+- Pointing at a tab now darkens its title, in place of the grey pill that used to appear
+  behind it, so it matches the tab you're on.
 
 ]]></description>
-            <enclosure url="https://fiachramacfadden.github.io/ibid-releases/ibid-1.4.52.zip" length="3295222" type="application/octet-stream" sparkle:edSignature="odjrhn0PrIbhhsuNevnDG9HXSgHqsfitb4mHSmGQbSldxzk5Bka221jhu0XVq/A/5zbC6Lr4N/ZywxJCdVLfDA=="/>
+            <enclosure url="https://fiachramacfadden.github.io/ibid-releases/ibid-1.4.53.zip" length="3297348" type="application/octet-stream" sparkle:edSignature="39e8r2jhX3pFTREtvU46S2G7hJQxJW/PhkXBGLJciECd8lVsV49GKSWlgRZsCITm7mFt/Om3h66gYHfKwimZDg=="/>
         </item>
     </channel>
 </rss>
