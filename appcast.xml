@@ -3,24 +3,18 @@
     <channel>
         <title>ibid</title>
         <item>
-            <title>1.4.51</title>
-            <pubDate>Sat, 14 Nov 2026 13:12:45 +0800</pubDate>
-            <sparkle:version>73</sparkle:version>
-            <sparkle:shortVersionString>1.4.51</sparkle:shortVersionString>
+            <title>1.4.52</title>
+            <pubDate>Mon, 16 Nov 2026 14:34:52 +0800</pubDate>
+            <sparkle:version>74</sparkle:version>
+            <sparkle:shortVersionString>1.4.52</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- When you scroll down and the top row slides away, the thin frame round the page slowly takes
-  on the website's own colour and the page's shadow fades, so the page and its frame read as
-  one. Scroll back up and it returns to white.
-- A bookmarked page's folded corner now stays at the top right of the window, so you see it fold
-  even when you bookmark partway down a page. It lies flat while you scroll down and folds over
-  again when the top row comes back.
-- On a bookmarked page the scroll bar sits on the frame beside the page, clear of the folded
-  corner.
-- The bookmarks button in the top row is filled, so it isn't mistaken for the bookmark by the
-  address, which keeps the page you're on.
+            <description sparkle:format="markdown"><![CDATA[- ibid now says highlights and notes everywhere, where it used to say "marks": the Highlights
+  list counts "2 highlights", the view of a page's passages is "Your highlights", and the menu
+  in the menu bar is Highlights.
+- In Settings, the exports are now Export Highlights and Export Highlights as Markdown.
 
 ]]></description>
-            <enclosure url="https://fiachramacfadden.github.io/ibid-releases/ibid-1.4.51.zip" length="3294290" type="application/octet-stream" sparkle:edSignature="4SLXizodN5NVFam6lEXK/nW0fkyF6QaZ5c3pZwhvSyr/zswj558z8hNqDhC9VjcTYWTvF8twSS0DdLZv2sWNDg=="/>
+            <enclosure url="https://fiachramacfadden.github.io/ibid-releases/ibid-1.4.52.zip" length="3295222" type="application/octet-stream" sparkle:edSignature="odjrhn0PrIbhhsuNevnDG9HXSgHqsfitb4mHSmGQbSldxzk5Bka221jhu0XVq/A/5zbC6Lr4N/ZywxJCdVLfDA=="/>
         </item>
     </channel>
 </rss>
