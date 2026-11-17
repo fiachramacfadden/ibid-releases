@@ -1,6 +1,6 @@
 # ibid
 
-ibid is a quiet macOS browser where you can highlight, underline and write in the margin of any
+ibid is a macOS browser where you can highlight, underline and write in the margin of any
 website, as you would in a book you own. Your marks are there when you come back to the page, and
 every website you have marked is listed under Highlights.
 
