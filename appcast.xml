@@ -3,16 +3,16 @@
     <channel>
         <title>ibid</title>
         <item>
-            <title>1.4.57</title>
-            <pubDate>Thu, 19 Nov 2026 12:38:55 +0800</pubDate>
-            <sparkle:version>79</sparkle:version>
-            <sparkle:shortVersionString>1.4.57</sparkle:shortVersionString>
+            <title>1.4.58</title>
+            <pubDate>Thu, 19 Nov 2026 12:48:02 +0800</pubDate>
+            <sparkle:version>80</sparkle:version>
+            <sparkle:shortVersionString>1.4.58</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- The turned-over corner of a bookmarked page is now joined to the page along its fold, with no
-  thin line between them.
+            <description sparkle:format="markdown"><![CDATA[- On websites with a header that stays at the top as you scroll, such as the New York Times,
+  a highlight no longer shows over the header as its line scrolls up underneath it.
 
 ]]></description>
-            <enclosure url="https://fiachramacfadden.github.io/ibid-releases/ibid-1.4.57.zip" length="3300046" type="application/octet-stream" sparkle:edSignature="5r7ZwpyjO1mPo8Uh9qo7f3lustHT1OJpOkLIZoSBLf8qEcZPcu9Amg3pLgUx4x7H+lzlsQhHDgc2Isp0Dw7cCA=="/>
+            <enclosure url="https://fiachramacfadden.github.io/ibid-releases/ibid-1.4.58.zip" length="3300659" type="application/octet-stream" sparkle:edSignature="3zf0gXc7ceHUrxmWMuK0WA4n+tglAqteWW2OSF9sTNtcyjsu3KkPEmMXcNTf3X+Ll5UielbNj6MXTdPQoMZFBw=="/>
         </item>
     </channel>
 </rss>
