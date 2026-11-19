@@ -3,16 +3,16 @@
     <channel>
         <title>ibid</title>
         <item>
-            <title>1.4.56</title>
-            <pubDate>Thu, 19 Nov 2026 12:31:47 +0800</pubDate>
-            <sparkle:version>78</sparkle:version>
-            <sparkle:shortVersionString>1.4.56</sparkle:shortVersionString>
+            <title>1.4.57</title>
+            <pubDate>Thu, 19 Nov 2026 12:38:55 +0800</pubDate>
+            <sparkle:version>79</sparkle:version>
+            <sparkle:shortVersionString>1.4.57</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- A bookmarked page's turned-over corner is solid paper again, so nothing on the page shows
-  through it, and it sits joined to the page along its fold with no pale line between them.
+            <description sparkle:format="markdown"><![CDATA[- The turned-over corner of a bookmarked page is now joined to the page along its fold, with no
+  thin line between them.
 
 ]]></description>
-            <enclosure url="https://fiachramacfadden.github.io/ibid-releases/ibid-1.4.56.zip" length="3300357" type="application/octet-stream" sparkle:edSignature="8M1k0ZkOSod2WxoJe+WaR9zwSQ9++7c9CVzQaWwziNvqzoSoE0HCWkwo+MagoDQFe2hZxiOTr2SAbX8yE4SsBA=="/>
+            <enclosure url="https://fiachramacfadden.github.io/ibid-releases/ibid-1.4.57.zip" length="3300046" type="application/octet-stream" sparkle:edSignature="5r7ZwpyjO1mPo8Uh9qo7f3lustHT1OJpOkLIZoSBLf8qEcZPcu9Amg3pLgUx4x7H+lzlsQhHDgc2Isp0Dw7cCA=="/>
         </item>
     </channel>
 </rss>
