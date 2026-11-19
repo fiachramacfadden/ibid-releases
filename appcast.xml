@@ -3,17 +3,17 @@
     <channel>
         <title>ibid</title>
         <item>
-            <title>1.4.54</title>
-            <pubDate>Thu, 19 Nov 2026 11:45:22 +0800</pubDate>
-            <sparkle:version>76</sparkle:version>
-            <sparkle:shortVersionString>1.4.54</sparkle:shortVersionString>
+            <title>1.4.55</title>
+            <pubDate>Thu, 19 Nov 2026 12:01:16 +0800</pubDate>
+            <sparkle:version>77</sparkle:version>
+            <sparkle:shortVersionString>1.4.55</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- Opening and closing Highlights now moves the same way as going into the reader: the page steps
-  back as Highlights settles forward, and comes forward again when you close it. It used to
-  fade.
+            <description sparkle:format="markdown"><![CDATA[- The Help menu has a new line, Write to ibid's Maker, which starts an email to the person who
+  makes ibid. ibid sends nothing about how you use it, so a note from you is the only way they
+  hear what's working and what isn't.
 
 ]]></description>
-            <enclosure url="https://fiachramacfadden.github.io/ibid-releases/ibid-1.4.54.zip" length="3299354" type="application/octet-stream" sparkle:edSignature="u4eeKWI+SBNz/13Q58ee6JqtBaUudLI3+ocHfenSTLAYOVG+Kio7DNw7+4bg9wdBYxdlZdYxZ7aHryZZNLctCQ=="/>
+            <enclosure url="https://fiachramacfadden.github.io/ibid-releases/ibid-1.4.55.zip" length="3300071" type="application/octet-stream" sparkle:edSignature="zRS6pR2dbrW8aMKiGphU8zO61uJpvvzQMHMX0OW+gAGAfCs6Ka4P/KM2MNH0RC3tbNpeVzHeRX8IdEQ7CHY+Aw=="/>
         </item>
     </channel>
 </rss>
