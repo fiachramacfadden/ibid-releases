@@ -3,17 +3,16 @@
     <channel>
         <title>ibid</title>
         <item>
-            <title>1.4.55</title>
-            <pubDate>Thu, 19 Nov 2026 12:01:16 +0800</pubDate>
-            <sparkle:version>77</sparkle:version>
-            <sparkle:shortVersionString>1.4.55</sparkle:shortVersionString>
+            <title>1.4.56</title>
+            <pubDate>Thu, 19 Nov 2026 12:31:47 +0800</pubDate>
+            <sparkle:version>78</sparkle:version>
+            <sparkle:shortVersionString>1.4.56</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- The Help menu has a new line, Write to ibid's Maker, which starts an email to the person who
-  makes ibid. ibid sends nothing about how you use it, so a note from you is the only way they
-  hear what's working and what isn't.
+            <description sparkle:format="markdown"><![CDATA[- A bookmarked page's turned-over corner is solid paper again, so nothing on the page shows
+  through it, and it sits joined to the page along its fold with no pale line between them.
 
 ]]></description>
-            <enclosure url="https://fiachramacfadden.github.io/ibid-releases/ibid-1.4.55.zip" length="3300071" type="application/octet-stream" sparkle:edSignature="zRS6pR2dbrW8aMKiGphU8zO61uJpvvzQMHMX0OW+gAGAfCs6Ka4P/KM2MNH0RC3tbNpeVzHeRX8IdEQ7CHY+Aw=="/>
+            <enclosure url="https://fiachramacfadden.github.io/ibid-releases/ibid-1.4.56.zip" length="3300357" type="application/octet-stream" sparkle:edSignature="8M1k0ZkOSod2WxoJe+WaR9zwSQ9++7c9CVzQaWwziNvqzoSoE0HCWkwo+MagoDQFe2hZxiOTr2SAbX8yE4SsBA=="/>
         </item>
     </channel>
 </rss>
