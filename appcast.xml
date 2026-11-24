@@ -3,17 +3,15 @@
     <channel>
         <title>ibid</title>
         <item>
-            <title>1.4.59</title>
-            <pubDate>Tue, 24 Nov 2026 15:47:58 +0800</pubDate>
-            <sparkle:version>81</sparkle:version>
-            <sparkle:shortVersionString>1.4.59</sparkle:shortVersionString>
+            <title>1.4.60</title>
+            <pubDate>Tue, 24 Nov 2026 16:49:04 +0800</pubDate>
+            <sparkle:version>82</sparkle:version>
+            <sparkle:shortVersionString>1.4.60</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- When you click into a box to type on a website, such as a message, a reply or a search, the
-  tabs at the top and the address bar at the bottom slide out of the way, so they no longer
-  cover a box at the foot of the page. Click anywhere else and they come back.
+            <description sparkle:format="markdown"><![CDATA[The tabs and address bar now also slide away when you click a message box that a website has already put the cursor in, as X does when you open a chat, or as soon as you start typing in one.
 
 ]]></description>
-            <enclosure url="https://fiachramacfadden.github.io/ibid-releases/ibid-1.4.59.zip" length="3303319" type="application/octet-stream" sparkle:edSignature="MQeKi/kd7+7IWiWewXTPUbWqaPyYU/PxcJDgudRumtXGoInL6Wfm+AVE3VTCnbOQ5B4tiryXCANnwrcupLawCA=="/>
+            <enclosure url="https://fiachramacfadden.github.io/ibid-releases/ibid-1.4.60.zip" length="3303510" type="application/octet-stream" sparkle:edSignature="5JMrOonGwXeq53KbRBe6ee694YmR7N1cWTtQItaniz1pESPvRgrn00e7OGA/ZX6RW9TFZwmQdx3EAlLk8J6ABw=="/>
         </item>
     </channel>
 </rss>
