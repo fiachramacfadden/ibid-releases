@@ -3,16 +3,17 @@
     <channel>
         <title>ibid</title>
         <item>
-            <title>1.4.58</title>
-            <pubDate>Thu, 19 Nov 2026 12:48:02 +0800</pubDate>
-            <sparkle:version>80</sparkle:version>
-            <sparkle:shortVersionString>1.4.58</sparkle:shortVersionString>
+            <title>1.4.59</title>
+            <pubDate>Tue, 24 Nov 2026 15:47:58 +0800</pubDate>
+            <sparkle:version>81</sparkle:version>
+            <sparkle:shortVersionString>1.4.59</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- On websites with a header that stays at the top as you scroll, such as the New York Times,
-  a highlight no longer shows over the header as its line scrolls up underneath it.
+            <description sparkle:format="markdown"><![CDATA[- When you click into a box to type on a website, such as a message, a reply or a search, the
+  tabs at the top and the address bar at the bottom slide out of the way, so they no longer
+  cover a box at the foot of the page. Click anywhere else and they come back.
 
 ]]></description>
-            <enclosure url="https://fiachramacfadden.github.io/ibid-releases/ibid-1.4.58.zip" length="3300659" type="application/octet-stream" sparkle:edSignature="3zf0gXc7ceHUrxmWMuK0WA4n+tglAqteWW2OSF9sTNtcyjsu3KkPEmMXcNTf3X+Ll5UielbNj6MXTdPQoMZFBw=="/>
+            <enclosure url="https://fiachramacfadden.github.io/ibid-releases/ibid-1.4.59.zip" length="3303319" type="application/octet-stream" sparkle:edSignature="MQeKi/kd7+7IWiWewXTPUbWqaPyYU/PxcJDgudRumtXGoInL6Wfm+AVE3VTCnbOQ5B4tiryXCANnwrcupLawCA=="/>
         </item>
     </channel>
 </rss>
