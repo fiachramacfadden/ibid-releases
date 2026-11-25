@@ -3,15 +3,21 @@
     <channel>
         <title>ibid</title>
         <item>
-            <title>1.4.60</title>
-            <pubDate>Tue, 24 Nov 2026 16:49:04 +0800</pubDate>
-            <sparkle:version>82</sparkle:version>
-            <sparkle:shortVersionString>1.4.60</sparkle:shortVersionString>
+            <title>1.4.61</title>
+            <pubDate>Wed, 25 Nov 2026 20:37:37 +0800</pubDate>
+            <sparkle:version>83</sparkle:version>
+            <sparkle:shortVersionString>1.4.61</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[The tabs and address bar now also slide away when you click a message box that a website has already put the cursor in, as X does when you open a chat, or as soon as you start typing in one.
+            <description sparkle:format="markdown"><![CDATA[- Highlights shows your highlights again. If ibid was moved to another folder while it was open
+  (from one Applications folder to the other, say), the list and every page in it came up with
+  the words but none of their colours. ibid now keeps everything it needs from the moment it opens.
+- A page in Highlights now always opens as the whole essay, with your highlights and notes in
+  place. A small tick in each highlight's colour sits beside the scroll bar, at that
+  highlight's place down the page. Click one to go straight to it.
+- A note holding a long web address now wraps inside its card, rather than running off the edge.
 
 ]]></description>
-            <enclosure url="https://fiachramacfadden.github.io/ibid-releases/ibid-1.4.60.zip" length="3303510" type="application/octet-stream" sparkle:edSignature="5JMrOonGwXeq53KbRBe6ee694YmR7N1cWTtQItaniz1pESPvRgrn00e7OGA/ZX6RW9TFZwmQdx3EAlLk8J6ABw=="/>
+            <enclosure url="https://fiachramacfadden.github.io/ibid-releases/ibid-1.4.61.zip" length="3282781" type="application/octet-stream" sparkle:edSignature="j90gsQiszopJgw740tNP8jvwhfLnVFbz8GxmcAaamfOFU4gs085n3YfcHl8uwMEX/zJGWi5b+8KKEp5dfwyGAw=="/>
         </item>
     </channel>
 </rss>
